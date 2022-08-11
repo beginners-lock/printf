@@ -4,7 +4,7 @@
  * get_print - get all necessary parameters to print a format
  * @format: characters
  * @valist: list of argument
- * Description: get necessary format for printing
+ *
  * Return: the number of the characters
  */
 
