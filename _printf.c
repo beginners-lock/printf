@@ -6,6 +6,7 @@
  *
  * Return: the number of characters printed
  */
+
 int _printf(const char *format, ...)
 {
 	pt_fmt pt_format[] = {
