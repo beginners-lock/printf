@@ -7,7 +7,6 @@
  *
  * Return: the number of the characters
  */
-
 int get_print(const char *format, va_list valist, pt_fmt pt_format[])
 {
 	int num_ch = 0, i = 0, j, k = 0, num = 0;
